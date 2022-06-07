@@ -1,5 +1,6 @@
 default_context:
     municipality: "King County"
+    iana_timezone: "America/Los_Angeles"
     governing_body_type: "county council"
     municipality_slug: "king-county"
     python_municipality_slug: "king_county"

@@ -13,6 +13,7 @@ const config = {
     },
     municipality: {
         name: "King County",
+        timeZone: "America/Los_Angeles",
         footerLinksSections: [],
     },
 }
